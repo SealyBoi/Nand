@@ -1,4 +1,4 @@
-from logic_gates import *
+from hardware.logic_gates import *
 
 # empty 16-bit array for increment
 zero_16 = {

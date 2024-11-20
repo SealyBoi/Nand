@@ -1,7 +1,7 @@
-from logic_gates import *
-from arithmetic_logic_unit import *
-from memory import *
-from util import *
+from hardware.logic_gates import *
+from hardware.arithmetic_logic_unit import *
+from hardware.memory import *
+from hardware.util import *
 
 # takes in four bits and a 16-digit bit
 # a, d, and *a are flags to write to the register

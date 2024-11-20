@@ -1,6 +1,6 @@
-from logic_gates import *
-from arithmetics import *
-from switching import *
+from hardware.logic_gates import *
+from hardware.arithmetics import *
+from hardware.switching import *
 
 # takes in two bits
 # latches onto an output

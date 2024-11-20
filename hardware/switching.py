@@ -1,4 +1,4 @@
-from logic_gates import *
+from hardware.logic_gates import *
 
 def new_16(bit):
     res = {}
